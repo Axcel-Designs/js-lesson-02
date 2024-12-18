@@ -2,4 +2,5 @@
 
 const num = 2;
 
-(num > 10) ? 'value greater than 10' : 'value less than 10';
+let result = (num > 10) ? 'value greater than 10' : 'value less than 10';
+console.log(result);
